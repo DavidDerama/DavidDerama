@@ -7,6 +7,8 @@ ja viestintätekniikan perustutkintoa.
 
 - 📫Sähköposti **davidbrentderama@gmail.com**
 
+- 📫Portfolio-sivusto **https://davidderama-portfolio.netlify.app/**
+
 <p align="left">
 </p>
 
