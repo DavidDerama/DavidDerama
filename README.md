@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidderama&show_icons=true&locale=en&layout=compact" alt="davidderama" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidderama&" alt="davidderama" /></p>
+
