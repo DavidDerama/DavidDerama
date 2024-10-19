@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidderama&label=Profile%20views&color=0e75b6&style=flat" alt="davidderama" /> </p>
 
-- 👨‍💻 All of my projects are available at [davidderama.com](davidderama.com)
 
 - 📫 How to reach me **davidbrentderama@gmail.com**
 
